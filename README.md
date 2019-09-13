@@ -1,1 +1,1 @@
-<a href="http://id.123dok.com">Tài liệu học CSS</a>
+<a href="http://id.123dok.com">Platform berbagi dokumen</a>
